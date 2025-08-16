@@ -1,4 +1,4 @@
-# project
+# project-2
 My project's name in Your Local Guide to Charlotte, North Carolina. Its a website which shows the user information on the the best in Charlotte (food, things to do, events, sports, etc.). It uses HTML and CSS, and embeded maps to provide an easy to navigate city guide. 
 
 Its featuers include a topbar navigation, embeded Google Maps for locations, and a back button for easy navigation. The images in the Food & Drink section are links which you can click to view more information about the restuarant, its website, and where it is located. 
