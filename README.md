@@ -1,7 +1,7 @@
 # project-2
 My project's name in Your Local Guide to Charlotte, North Carolina. Its a website which shows the user information on the the best in Charlotte (food, things to do, events, sports, etc.). It uses HTML and CSS, and embeded maps to provide an easy to navigate city guide. 
 
-Its featuers include a topbar navigation, embeded Google Maps for locations, and a back button for easy navigation. The images in the each section are links which you can click to view more information about the that specific topic, its website, and where it is located. The links on the top of the Sports & Events and Outdoors & Nature pages are links to articles from the Charlottes Got A Lot website. 
+Its features include a topbar navigation, embeded Google Maps for locations, and a back button for easy navigation. The images in the each section are links which you can click to view more information about the that specific topic, its website, and where it is located. The links on the top of the Sports & Events and Outdoors & Nature pages are links to articles from the Charlottes Got A Lot website. 
 
 I made my project because to make things easier for visitors. I felt that there are so many websites for people to navigate when they are in a new city and want to explore, sometimes it can be overwhelming. I made this website with a few of the most crucial things that makes Charlotte special and the reason why people visit. The most famous shopping places, the best food, and the best places to enjoy with your family are what I focused my website on. 
 
