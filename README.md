@@ -20,7 +20,7 @@ https://pgarg111.github.io/project-2/index.html
 
 Navigate the website pages through the top bar. The center picture is the home button for the website. 
 
-https://hackatime-badge.hackclub.com/U099LHP1QKF/project-2
+[https://hackatime-badge.hackclub.com/U099LHP1QKF/project-2](https://hackatime-badge.hackclub.com/U099LHP1QKF/project-2)
 
 [![Athena Award Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Faward.athena.hackclub.com%2Fapi%2Fbadge)](https://award.athena.hackclub.com?utm_source=readme)
 
